@@ -1,6 +1,7 @@
 # ResearchSGS
-Under supervision of Professor Tian Zheng.
-The purpose of this project is discovering subgrid closures/parameterizations to mimic the behavior of high resolution simulations with the input of only coarse resolution simulations.
+Under the supervision of Professor Tian Zheng.
+
+The purpose of this project is to discover subgrid closures/parameterizations to mimic the behavior of high-resolution simulations with the input of only coarse-resolution simulations.
 
 Areas of Focus:
 - filtering and coarse-graining schemes
